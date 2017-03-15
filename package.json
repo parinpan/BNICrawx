@@ -1,0 +1,11 @@
+{
+  "name": "bnicrawx",
+  "version": "1.0.0",
+  "description": "An engine to crawl BNI Promo website",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fachrin Aulia <fachrinfan@gmail.com>",
+  "license": "ISC"
+}
